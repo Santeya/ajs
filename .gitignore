@@ -1,8 +1,8 @@
 .idea
 Thumbs.db*
 .DS_Store*
-HELP.md
 doc
+HELP.md
 
 # Logs
 logs
